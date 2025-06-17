@@ -1,4 +1,4 @@
-# GAT-App
+.  . # GAT-App
 GAT-App is an Android app for sending several types of SMS:
 
 * Class 0 SMS (aka Flash SMS)
